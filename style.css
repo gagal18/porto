@@ -119,8 +119,9 @@ a.navbar-brand {
   justify-content: center;
   text-align: center;
 }
-#about , #contact{
+#about ,#contact{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     height: 500px;
     padding-top: 50px;
@@ -135,4 +136,43 @@ footer p{
     font-size: 20px;
     display: flex;
     justify-content: flex-end;
+}
+.container2 h1{
+  font-size: 100px;
+}
+.container2 h2{
+  font-size: 60px;
+}
+.container2 .spans{
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
+.container2 span{
+  transition: 1s font-size;
+}
+.container2 span:hover{
+  transition: 1s font-size;
+  font-size: 40px;
+  transition-delay: 300ms;
+}
+#contact{
+  align-items: center;
+
+}
+#contact a{
+  font-size: 30px;
+}
+
+.contact-section-header{
+ padding-bottom:50px;
+}
+.contact-section-header h2{
+  font-size: 45px;
+}.contact-section-header p{
+  font-size: 35px;
+}
+#about p{
+  font-size: 25px;
+  padding: 25px;
 }
