@@ -20,6 +20,9 @@ body {
   font-family: "Teko", sans-serif;
   background-color: var(--main-green);
 }
+a.navbar-brand{
+  width: auto;
+}
 nav.navbar.navbar-expand-lg.navbar-light.bg-light {
   background-color: var(--main-blgr) !important;
   font-size: 25px;
