@@ -110,7 +110,7 @@ nav.navbar{
   color: var(--main-blue);
 }
 nav ul li {
-  width: 300px;
+  width: 200px;
   justify-content: center;
   text-align: center;
 }
