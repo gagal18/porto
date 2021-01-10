@@ -19,7 +19,7 @@ body {
   box-sizing: border-box;
   font-family: "Teko", sans-serif;
   background-color: var(--main-green);
-}qs
+}
 nav.navbar.navbar-expand-lg.navbar-light.bg-light {
   background-color: var(--main-blgr) !important;
   font-size: 25px;
@@ -116,7 +116,7 @@ nav ul li {
   text-align: center;
 }
 a.navbar-brand {
-  width: 100px;
+  width: 300px;
   justify-content: center;
   text-align: center;
 }
