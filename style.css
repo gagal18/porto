@@ -139,8 +139,6 @@ footer p{
     justify-content: flex-end;
 }
 .container2{
-  width: 50vw;
-  text-align: center;
   -webkit-animation: slide-in-blurred-top 1s ease-in-out 0.2s both;
 	        animation: slide-in-blurred-top 1s ease-in-out 0.2s both;
 }
@@ -151,11 +149,9 @@ footer p{
   font-size: 60px;
 }
 .container2 .spans{
-  margin-top: 75px;
   display: flex;
-  justify-content: space-between;
-  font-size: 35px;
-  cursor: pointer;
+  justify-content: center;
+  font-size: 30px;
 }
 .container2 span{
   transition: 1s font-size;
@@ -172,10 +168,6 @@ footer p{
 #contact a{
   font-size: 30px;
   
-}
-#content{
-  display: flex;
-  justify-content: space-between;
 }
 #contact a:hover{
   animation :jello-horizontal 1.5s ease-in-out 50ms both;
