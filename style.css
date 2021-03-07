@@ -484,7 +484,7 @@ a {
 }
 
 .blue {
-   background-color: #669AE1;
+   background-color: #05386b;
    box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.14);
    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.12);
 }
@@ -492,13 +492,13 @@ a {
 
 
 .green {
-   background-color: #70CC72;
+   background-color: #379683;
    box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.14);
    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.12);
 }
 
 .red {
-   background-color: #FE4365;
+   background-color: #05386b;
    box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.14);
    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.12);
 }
@@ -506,20 +506,20 @@ a {
 
 
 .purple {
-   background-color: #C49CDE;
+   background-color: #379683;
    box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.14);
    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.12);
 }
 
 
 .orange {
-   background-color: #FC913A;
+   background-color: #05386b;
    box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.14);
    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.12);
 }
 
 .lightblue {
-   background-color: #62C2E4;
+   background-color: #379683;
    box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.14);
    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.12);
 }
