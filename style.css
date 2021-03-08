@@ -51,6 +51,15 @@ nav.navbar{
     font-size: 4rem;
   }
 }
+@media (max-width:480px){
+  div.container2{
+    height: 500px;
+    margin-left: 50px;
+  }
+  div.container2 nav.menu{
+    left: -50%;
+  }
+}
 
 /* "Automagic" image grid using no media queries */
 .projects-grid {
