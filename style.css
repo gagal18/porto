@@ -54,7 +54,7 @@ nav.navbar{
 @media (max-width:480px){
   div.container2{
     height: 500px;
-    margin-left: 50px;
+    padding-left: 50px;
   }
   div.container2 nav.menu{
     left: -50%;
